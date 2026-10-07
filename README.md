@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Hadi 👋
 
 I'm moving from HR and industrial relations into tech, with the goal of becoming an AI/ML engineer. I'm based in Ibadan, Nigeria.
@@ -8,30 +6,26 @@ I'm moving from HR and industrial relations into tech, with the goal of becoming
 
 - **Football match outcome predictor**: a Jupyter notebook project trained on ~49,500 international matches (1872–2017). My first attempt with label-encoded team names got stuck at 49% accuracy because it created a false ranking between teams. Switching to one-hot encoding with logistic regression lifted it to ~58%.
 - **Market prediction model**: planned next, starting with a single crypto token and scaling out from there, the same narrow-to-broad approach I used for the football model.
-- **My CS50x final project**: in progress.
+- **My CS50x final project**: working on a system for managing event sign-ups in an organized way. This is my main project right now.
+- **Game dev experiments**: I started with a Scratch (MIT) game and enjoyed it enough to want to keep going.
 
 ## 🌱 What I'm learning
 
 - CS50x (Introduction to Computer Science)
-- IBM Data and Data Management track, toward the IBM Data Analytics certificate
+- IBM Data Science and Management track, toward the IBM Data Analytics certificate
 - TS Academy's Data Science program
 - Python, pandas, scikit-learn, and SQL
 
 ## 🎯 Where I'm headed
 
-- AI/ML engineering
+- ML engineering
 - AI governance
-- A research-based Master's degree abroad
+- Data Science
+- Game development: something I want to try after discovering how much fun I have building games (it started with a Scratch project)
 
 ## 🧰 Background
 
 - B.Sc. Industrial Relations and Personnel Management, University of Ilorin
-- NYSC at the Nigerian Communications Commission (NCC), working on consumer affairs, complaint handling, and records management
-- Experience in AI evaluation and training work
-
-## 💬 Ask me about
-
-Making the career switch from HR to tech, learning data science from scratch, and why one-hot encoding beats label encoding for team names.
 
 ## 🌍 Outside of code
 
@@ -39,8 +33,8 @@ Jogging, reading, music, anime, Japanese culture, and worldbuilding and storytel
 
 ## 📫 How to reach me
 
-- Email: _add your email here_
-- LinkedIn: _add your link here_
+- Email: Hasalami08@outlook.com
+- LinkedIn: 
 
 ## ⚡ Fun fact
 
