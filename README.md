@@ -34,7 +34,7 @@ Jogging, reading, music, anime, Japanese culture, and worldbuilding and storytel
 ## 📫 How to reach me
 
 - Email: Hasalami08@outlook.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/hadi-salami-ad007
 
 ## ⚡ Fun fact
 
